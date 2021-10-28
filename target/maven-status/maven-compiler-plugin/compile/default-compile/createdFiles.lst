@@ -1,0 +1,7 @@
+com/bern/onschedule/EJBExceptionMapper.class
+com/bern/onschedule/calendarevents/entity/CalendarEvent.class
+com/bern/onschedule/CalendarEventsResource.class
+com/bern/onschedule/calendarevents/busniess/CalendarEventsManager.class
+com/bern/onschedule/JAXRSConfiguration.class
+com/bern/onschedule/CalendarEventResource.class
+com/bern/onschedule/resources/JavaEE8Resource.class
